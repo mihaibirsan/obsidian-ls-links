@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-ls-links",
+  "version": "0.1.0",
+  "description": "List all files linked to in a given Obsidian note.",
+  "bin": "src/main.js",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihai Bîrsan",
+  "license": "ISC"
+}
